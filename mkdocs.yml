@@ -1,0 +1,8 @@
+site_name: UKAIFA - AI Knowledge Base
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: readthedocs
+
