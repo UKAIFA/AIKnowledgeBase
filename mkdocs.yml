@@ -1,8 +1,22 @@
 site_name: UKAIFA - AI Knowledge Base
 
 nav:
-  - Home: index.md
-  - About: about.md
+  - "UKAIFA Knowledge Base Overview":
+    - Introduction: index.md
+    - About: overview/index.md
+  - "Machine Learning":
+    - machine learning overview: machineLeanring/index.md
+  - "Software":
+    - Software overview: software/index.md
+  - "Resources": 
+    - Resources overview: resources/index.md
+    - EIDF: resources/eidf/index.md
+      # - HAMMERAI: resources/hammerai/index.md
+      # - EuroHPC AI factory network
+  - "Workflows":
+    - workflows overview: workflows/index.md
+      # - "Federation":
+ 
 
 theme: readthedocs
 
